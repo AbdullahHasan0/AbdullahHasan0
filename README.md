@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdullahHasan0" alt="AbdullahHasan0" /></a> </p>
 
-- 🌱 I’m currently learning **Tensorflow,Pytorch**
+- 🌱 I’m currently learning **Tensorflow,Pytorch,FastAPI**
 
 - 💬 Ask me about **python,pandas,seaborn**
 
